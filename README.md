@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Pradip3010
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Pradip3010/Pradip3010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+hellow world
+my first respository!
+hellow this is my account
+https://github.com/Pradip3010/Pradip3010/edit/main/README.md
